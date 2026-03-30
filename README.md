@@ -2,7 +2,9 @@
 
 本專案為 Windows Forms 應用程式，用於計算房貸相關資訊，包括每月應繳金額、總利息支出與總還款金額等。
 
-<img width="1332" height="737" alt="image" src="https://github.com/user-attachments/assets/eb9bac39-7d6c-4c10-baec-5a3ecc34c33e" />
+<img width="1326" height="738" alt="image" src="https://github.com/user-attachments/assets/45c04e36-1aa3-4006-83cc-7589de7b2daa" />
+
+---
 
 ## 📌 功能介紹
 
@@ -66,9 +68,3 @@
 - **總還款金額**：本金加上利息的總支出  
 
 所有數值皆以**千分位與小數點兩位**格式顯示。
-
----
-
-## 🧮 計算公式
-
-本程式採用「本息平均攤還法」：
